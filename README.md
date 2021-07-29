@@ -1,1 +1,1 @@
-pokemon-pagination-app.netlify.app
+https://pokemon-pagination-app.netlify.app/
